@@ -1,0 +1,214 @@
+.try {
+  background-image: url(banner-g5264b6d63_1920.jpg);
+  height: 60vb;
+  width: 200vb;
+}
+
+.links {
+  list-style-type: none;
+  padding: 10px 10px 10px 20px;
+  margin: 10px;
+  width: 30vb;
+  background-color: aquamarine;
+  font-size: x-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  position: fixed;
+  
+}
+.links a {
+  color: black;
+  padding: 3px;
+  margin: 15px;
+  text-decoration: none;
+}
+.links a:hover {
+  color: blue;
+  background-color: black;
+  padding: 2px;
+}
+.display {
+  background-color: powderblue;
+}
+.title {
+  font-size: 10vb;
+  padding: 0%;
+  margin: 0%;
+  text-decoration: underline black;
+}
+
+.text {
+  font-family: "Inconsolata", monospace;
+  content: black;
+  vertical-align: auto;
+  line-height: 50px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 20px;
+}
+.film-title {
+  font-family: "Zilla Slab", serif;
+  font-size: 40px;
+}
+.image2 {
+  height: 450px;
+  width: 300px;
+  border: solid 2px black;
+  border-radius: 10px;
+}
+
+.contact {
+  background-image: url(auditorium-stadium-bench-chairs.jpg);
+  height: 93vb;
+  width: 200vb;
+  font-size: xx-large;
+}
+.contact-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: brown;
+}
+.button1 {
+  padding: 40px 40 px;
+  margin: 200px 750px;
+  font-size: medium;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+}
+.button1 a :hover {
+  background-color: aqua;
+
+  cursor: pointer;
+}
+
+.series {
+  border: solid 3px;
+  height: 50vb;
+  width: 120vb;
+  border-radius: 15px;
+  color: #9e4784;
+
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.serie2 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  margin: 5px;
+  border-radius: 7px;
+  background-image: url(br.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s3 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(sopranos.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s4 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(DarkNetflixPosterEnglish.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s5 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(sr.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s6 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(friends.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s7 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(true\ detective.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s8 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(blackmirror.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s9 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(freaks.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s10 {
+  border: black solid 1px;
+  height: 23vb;
+  width: 20vb;
+  border-radius: 7px;
+  margin: 5px;
+  background-image: url(band\ of\ brothers.jpg);
+  background-size: 175px 180px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.about2 {
+  background-image: url(431495-Cinema-4D-abstract-CGI-render-3D-Abstract-dark.jpg);
+  height: 100vb;
+  width: 200vb;
+  background-repeat: no-repeat;
+}
+.about {
+  color: white;
+  text-align: center;
+  font-size: large;
+}
+.youtube {
+  font-size: 20vb;
+  padding: 90vb;
+}
